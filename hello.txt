@@ -1,1 +1,13 @@
-123
+Keanu Erm C. Tarre
+
+1. What challenges did you face during this activity
+- for some reason in the command prompt couldn't run the command's "git remote add origin <your-repo-url>" and "git remote -v" so what did 
+is i instead i used visual studios terminal to link to local repository.
+
+2. Which Git command was the most confusing?
+- for me, some of the commands are familiar because of its common use when i use github esp when i want to create a local file and then sent it 
+to github
+
+3. How can version control help in real-world software development?
+- it helps the users to easily sent and work on their projects together by his or her teammates by editing, sending and receiving 
+the main file or the project
